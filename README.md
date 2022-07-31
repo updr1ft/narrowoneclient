@@ -1,5 +1,10 @@
+
+# Disclaimers
+Logging into your account wont work as of now but I am working on fixing this
+
+
 # narrowoneclient
-A electron app/client for the popular browser game narrow.one
+An unnoficial electron app/client for the popular browser game narrow.one
 
 
 # How to use
